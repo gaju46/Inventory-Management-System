@@ -1,0 +1,29 @@
+
+***********************************
+            Invoice                
+
+Date: 2023-05-28 07:12:37
+Customer Name: gaju
+Customer Address: lhn
+Customer Phone Number: 98222222
+***********************************
+
+Shipping: 500
+Total Price without Vat and Shipping: 3952
+Total Price with Vat and Shipping: 4965.76
+-----------------------------------------
+XPSDelli5 9th GenGTX 3070$19762
+
+***********************************
+            Invoice                
+
+Date: 2023-05-28 07:12:37
+Customer Name: gaju
+Customer Address: lhn
+Customer Phone Number: 98222222
+***********************************
+
+Shipping: 500
+Total Price without Vat and Shipping: 3952
+Total Price with Vat and Shipping: 4965.76
+-----------------------------------------

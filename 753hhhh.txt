@@ -1,0 +1,29 @@
+
+***********************************
+            Invoice                
+
+Date: 2023-05-28 07:53:44
+Customer Name: hhhh
+Customer Address: jjkj
+Customer Phone Number: 346
+***********************************
+
+Shipping: 500
+Total Price without Vat and Shipping: 3952
+Total Price with Vat and Shipping: 4965.76
+-----------------------------------------
+XPSDelli5 9th GenGTX 3070$19762
+
+***********************************
+            Invoice                
+
+Date: 2023-05-28 07:53:44
+Customer Name: hhhh
+Customer Address: jjkj
+Customer Phone Number: 346
+***********************************
+
+Shipping: 500
+Total Price without Vat and Shipping: 3952
+Total Price with Vat and Shipping: 4965.76
+-----------------------------------------
